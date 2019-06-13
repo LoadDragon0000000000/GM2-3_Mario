@@ -1,1 +1,5 @@
-よろろよろ
+#include<windows>
+
+int main(){
+   return 0;
+}
